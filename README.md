@@ -31,7 +31,7 @@ An insightful MySQL analysis of the Goodreads dataset, exploring reader preferen
 # Appendix
 📑 The appendix provides supplementary material, such as code snippets, additional data insights, and enhanced visualizations for a thorough understanding of the Goodreads dataset.
 
-
+# For comprehensive details and documentation about this project, please refer to the full documentation available in the same repository.
 
 
 
